@@ -1,15 +1,23 @@
----
+# 📝 Offer Letter Generator using Python
 
-## ✅ Project 2: Password Generator 🔐
+## 📌 Description:
+This project generates a clean offer letter in PDF format using Python.  
+It takes user input like full name, internship domain, and start date, and creates a ready-to-download internship offer letter.
 
-### Description:
-A Python tool to generate strong passwords. The user can choose the password length and whether to include uppercase letters, digits, and symbols.
+## 🔧 Technologies Used:
+- Python
+- FPDF (PDF generation library)
 
-### How It Works:
-- Takes user input for length and character types
-- Uses `random.choice()` and `string` module to build password
-- Displays a random, strong password in terminal
+## 📂 Output:
+✅ `Offer_Letter_Suda_Nirmala_Jyothi.pdf` is generated and available in this repository.
 
-### How to Run:
-```bash
-python password_generator.py
+## 📄 Sample Use:
+- Student: Suda. Nirmala Jyothi
+- Domain: Python
+- Internship: Micro IT (MITS Internship)
+- Start Date: 10 June 2025
+
+## 🙋‍♀️ Submitted By:
+- **Name:** Suda. Nirmala Jyothi  
+- **Internship:** Micro Information Technology Services (MITS)  
+- **Domain:** Python

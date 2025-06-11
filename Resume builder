@@ -1,0 +1,14 @@
+# 📄 Resume Builder (Text Format) using Python
+
+## 📌 Description:
+A command-line Python script that collects user info and generates a resume in text format.
+
+## 💡 Features:
+- Inputs: name, email, education, skills, experience
+- Outputs: A clean `.txt` resume
+- Fully mobile-friendly (works in Pydroid 3)
+
+## 👩‍💻 Submitted By:
+Suda. Nirmala Jyothi  
+Internship: Hepta Analytics  
+Domain: Cybersecurity

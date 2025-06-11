@@ -1,0 +1,18 @@
+# 🧾 Internship Form Data Processor
+
+## 📌 Description:
+Simulates form data collection, validation, and local storage (similar to Google Sheets) in a mobile environment.
+
+## 💻 Features:
+- Validates email
+- Collects name, domain, date
+- Saves to a `.txt` file (works on Pydroid 3)
+
+## ⚙️ Technologies:
+- Python (Pydroid 3)
+- Regex (for email validation)
+- File handling (no internet needed)
+
+## 👩‍💻 Submitted By:
+Suda. Nirmala Jyothi  
+Hepta Analytics – Cybersecurity Domain

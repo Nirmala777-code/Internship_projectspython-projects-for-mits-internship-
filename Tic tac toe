@@ -1,0 +1,15 @@
+# 🎮 Tic Tac Toe Game – Python
+
+## 📌 Description:
+A simple two-player terminal-based Tic Tac Toe game with:
+- Turn switching
+- Win/draw logic
+- 3x3 game board using 1–9 positions
+
+## 💻 How to Run:
+Run in Pydroid 3. Player 1 uses "X", Player 2 uses "O". Input position number to place your mark.
+
+## 👩‍💻 Submitted By:
+Suda. Nirmala Jyothi  
+Internship: Hepta Analytics  
+Domain: Cybersecurity

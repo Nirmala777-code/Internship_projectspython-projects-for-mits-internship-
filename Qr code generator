@@ -1,0 +1,15 @@
+# QR Code Generator using Python
+
+## 📌 Description:
+Generates a QR code from any text or URL and saves it as an image.
+
+## 📂 Output:
+Image: `nirmala_qr_code.png`
+
+## 📦 Libraries:
+- qrcode
+- pillow (PIL)
+
+## 👩‍💻 Submitted By:
+Suda. Nirmala Jyothi  
+Cybersecurity Domain – Hepta Analytics

@@ -1,0 +1,19 @@
+# 🔐 Encryption-Decryption Tool (Caesar Cipher)
+
+## 📌 Description:
+A Python tool to encrypt and decrypt messages using Caesar Cipher technique.  
+User provides a message and key; tool performs shift-based transformation.
+
+## 💻 Features:
+- Encrypts text
+- Decrypts text
+- Ignores symbols/numbers for simplicity
+
+## 🧰 Technologies:
+- Python (no external libraries)
+- Pydroid 3 friendly
+
+## 👩‍💻 Submitted By:
+Suda. Nirmala Jyothi  
+Domain: Cybersecurity  
+Internship: Hepta Analytics

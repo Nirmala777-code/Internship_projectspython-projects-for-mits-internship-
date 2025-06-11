@@ -1,0 +1,16 @@
+# 🧮 Basic Calculator using Python
+
+## 📌 Description:
+A command-line calculator that performs basic operations:
+- Addition
+- Subtraction
+- Multiplication
+- Division (with zero-division check)
+
+## 💻 How to Run:
+Paste and run in Pydroid 3 terminal. Select operations by number and input your values.
+
+## 👩‍💻 Submitted By:
+Suda. Nirmala Jyothi  
+Internship: Hepta Analytics  
+Domain: Cybersecurity

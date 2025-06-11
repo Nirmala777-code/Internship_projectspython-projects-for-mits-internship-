@@ -1,0 +1,20 @@
+
+----------------------------
+        RESUME
+----------------------------
+
+Name: suda.Nirmala jyothi
+Email: sudhanirmala462@gmail.com
+Phone: 7989189818
+
+Education:
+btech final year 
+
+Skills:
+cybersecurity ,python programing ,bug bounty,red teaming 
+
+Experience:
+micron IT,volts of code,codetech ,prodigy infotech,kayes pvt limited ,gaumat gurus pvt limited,etcc
+
+----------------------------
+Generated using Python 💻
